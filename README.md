@@ -1,4 +1,4 @@
-#Hamza Portfolio
+<h1>Hamza Portfolio</h1>
 
 🚀 <a href="https://haamzahm.github.io/hamzamalik/">Live Demo</a> 🚀
 
